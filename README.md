@@ -113,7 +113,8 @@ Few-shot prompting improves accuracy by guiding the model with examples, making 
 
 ## 👨‍💻 Author
 Laksh Kumar  
-Computer Science Student | Machine Learning & NLP Enthusiast  
+ML intern
+Developers Hub Corporation
 
 ## ⭐ Acknowledgements
 - HuggingFace Transformers  
