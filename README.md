@@ -77,6 +77,10 @@ The project compares Zero-Shot and Few-Shot outputs using:
 
 A grouped bar chart is used to show confidence score differences.
 
+Below is the comparison of Zero-Shot vs Few-Shot performance:
+
+![Comparison Chart](images/comparison.PNG)
+
 ## 📈 Key Findings
 Zero-Shot:
 - Works without examples  
